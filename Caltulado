@@ -1,1 +1,40 @@
-Hola
+{
+    "Version": "1.0..1",
+    "ReleaseNotes": "JORDÁN FLOW",
+    "Sms": "sms.php",
+    "UrlUpdate": "https://raw.githubusercontent.com/Tecnologia1411/Jord-n43/main/Caltulado",
+    "EmailFeedback": "",
+    "UrlContato": "t.me/OriginalOficial",
+    "UrlTermos": "",
+    "CheckUser": "false",
+    "Udp": [
+        {
+            "Porta": "7300"
+        }
+    ],
+    "Servers": [
+       {
+            "Name": "👥 JORDÁN FLOW",
+            "TYPE": "premiun",
+            "FLAG": "claro.png",
+            "ServerIP": "",
+            "CheckUser": "",
+            "ServerPort": "",
+            "SSLPort": "",
+            "USER": "",
+            "PASS": ""
+        },
+    ],
+    "Networks": [
+      {
+      "Name": "╰┈[☞> 🇩🇴CLARO 5G🇩🇴  📡 ",
+      "FLAG": "claro.png",
+      "Payload": "G",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Direct"
+    }    
+  ]
+}
